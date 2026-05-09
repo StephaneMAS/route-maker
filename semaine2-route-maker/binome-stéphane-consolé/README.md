@@ -60,7 +60,7 @@ Ce projet est une **mini station de surveillance automatisée** construite sur A
 
 ##  Composants substitués
 
-*(Remplir cette section uniquement si un composant a été substitué.)*
+
 
 > Exemple :  
 > **Servomoteur SG90** remplacé par **servomoteur MG90S** — moteur équivalent avec
@@ -97,7 +97,7 @@ Avant d'utiliser le Bonus 3, vous devez identifier les codes de votre télécomm
 
 - **Codes IR non reconnus :** La valeur `0xFFFFFFFF` est souvent envoyée lors d'un appui long (répétition). Solution : ignorer cette valeur dans `handleIR()` ou ajouter une condition `if (code != 0xFFFFFFFF)`.
 
-*(Compléter avec vos propres difficultés réelles rencontrées pendant la semaine)*
+
 
 ---
 
