@@ -127,5 +127,7 @@ La vidéo montre :
 
 ---
 
+
+*A Défaut du temps ( les sortirs pedagogiques à l'EPAC et les programmes surchargés ) nous n'avions pas pu terminé se projet*
 *Projet réalisé dans le cadre du PÔLE ROS — FIERI, Semaine 2, mai 2026.*
 
