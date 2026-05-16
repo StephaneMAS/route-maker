@@ -1,10 +1,10 @@
-// ================================================================
+
 // STEP 1 — Read the light sensor (LDR)
 // Goal: understand what analogRead() gives us and see values
 //       change in real time in the Serial Monitor.
 // Test: cover the LDR with your hand → value drops.
 //       Shine a phone flashlight on it → value rises.
-// ================================================================
+
 
 // LDR is on analog pin A0.
 // We need an analog pin because the LDR produces a variable voltage
